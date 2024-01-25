@@ -18,12 +18,12 @@ The project is a timed matching game app that challenges users to match images w
 <summary>Click to view</summary>
 
 - ![Front Page](https://github.com/PRATIKBAGADE1/TYCompWeb/blob/master/ss/home%20page.png)
-- ![Match Game]()
-- ![Scorecard]()
-- ![Scorecard]()
-- ![Scorecard]()
-- ![Scorecard]()
-- ![Scorecard]()
-- ![Scorecard]()
+- ![Match Game](https://github.com/PRATIKBAGADE1/TYCompWeb/blob/master/ss/developers.png)
+- ![Scorecard](https://github.com/PRATIKBAGADE1/TYCompWeb/blob/master/ss/sdc.png)
+- ![Scorecard](https://github.com/PRATIKBAGADE1/TYCompWeb/blob/master/ss/sign%20in.png)
+- ![Scorecard](https://github.com/PRATIKBAGADE1/TYCompWeb/blob/master/ss/teachers.png)
+- ![Scorecard](https://github.com/PRATIKBAGADE1/TYCompWeb/blob/master/ss/HOD_Login.png)
+- ![Scorecard](https://github.com/PRATIKBAGADE1/TYCompWeb/blob/master/ss/add%20student.png)
+- ![Scorecard](https://github.com/PRATIKBAGADE1/TYCompWeb/blob/master/ss/deleting%20studunts.png)
 
 </details>
