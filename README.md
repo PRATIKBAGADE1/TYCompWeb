@@ -18,7 +18,12 @@ The project is a timed matching game app that challenges users to match images w
 <summary>Click to view</summary>
 
 - ![Front Page](https://github.com/PRATIKBAGADE1/TYCompWeb/blob/master/ss/home%20page.png)
-- ![Match Game](https://assets.ccbp.in/frontend/content/react-js/match-game-lg-output.png)
-- ![Scorecard](https://assets.ccbp.in/frontend/content/react-js/match-game-score-card-lg-output.png)
+- ![Match Game]()
+- ![Scorecard]()
+- ![Scorecard]()
+- ![Scorecard]()
+- ![Scorecard]()
+- ![Scorecard]()
+- ![Scorecard]()
 
 </details>
