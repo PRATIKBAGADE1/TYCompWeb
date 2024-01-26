@@ -2,7 +2,7 @@ In this project, we build a  Dynamic **Computer Departmental Website** by applyi
 ### Project Structure
 
 As part of a collaborative effort,Developed a Computer Departmental Website with team members using HTML,CSS,Bootstrap, MySql, JavaScript, PHP
-- **Departmental Website:** A static webpage showcasing general department information.
+- **Departmental Website:** A Dynamic webpage showcasing general department information.
 - **User Login :** Registered users can log in to access student, teacher, and non-teaching staff details.
 - **Administrative Access:** The Head of the Department (HOD) has special privileges to update, add, or delete entries.
 - **Database Handler:** The website utilizes SQL queries through XAMPP to handle and manage the database, allowing efficient storage and retrieval of information.
