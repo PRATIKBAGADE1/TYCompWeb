@@ -1,4 +1,4 @@
-In this project, I build a **Match Game** by applying the concepts we have learned till now.
+In this project, we build a  Dynamic **Computer Departmental Website** by applying the concepts we have learned till now.
 ### Project Structure
 
 As part of a collaborative effort,Developed a Computer Departmental Website with team members using HTML,CSS,Bootstrap, MySql, JavaScript, PHP
@@ -20,7 +20,7 @@ As part of a collaborative effort,Developed a Computer Departmental Website with
 <details>
 <summary>Click to view</summary>
 
-- FrontPage ![Front Page](https://github.com/PRATIKBAGADE1/TYCompWeb/blob/master/ss/home%20page.png) <Br>
+- FrontPage ![Front Page](https://github.com/PRATIKBAGADE1/TYCompWeb/blob/master/ss/home%20page.png) <hr>
 - Developed By:-  ![Match Game](https://github.com/PRATIKBAGADE1/TYCompWeb/blob/master/ss/developers.png)
 - ![Scorecard](https://github.com/PRATIKBAGADE1/TYCompWeb/blob/master/ss/sdc.png)
 - ![Scorecard](https://github.com/PRATIKBAGADE1/TYCompWeb/blob/master/ss/sign%20in.png)
