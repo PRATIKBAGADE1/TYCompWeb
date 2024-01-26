@@ -7,15 +7,20 @@ As part of a collaborative effort,Developed a Computer Departmental Website with
 - **Administrative Access:** The Head of the Department (HOD) has special privileges to update, add, or delete entries.
 - **Database Handler:** The website utilizes SQL queries through XAMPP to handle and manage the database, allowing efficient storage and retrieval of information.
 
-
-
-
+### Languages and Technologies Used
+- PHP
+- JavaScript
+- HTML
+- CSS
+- BootStrap
+- MySql
+  
 
 ### Design Files(Screenshots)
 <details>
 <summary>Click to view</summary>
 
-- ![Front Page](https://github.com/PRATIKBAGADE1/TYCompWeb/blob/master/ss/home%20page.png)
+- ![Front Page] (https://github.com/PRATIKBAGADE1/TYCompWeb/blob/master/ss/home%20page.png)
 - ![Match Game](https://github.com/PRATIKBAGADE1/TYCompWeb/blob/master/ss/developers.png)
 - ![Scorecard](https://github.com/PRATIKBAGADE1/TYCompWeb/blob/master/ss/sdc.png)
 - ![Scorecard](https://github.com/PRATIKBAGADE1/TYCompWeb/blob/master/ss/sign%20in.png)
