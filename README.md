@@ -20,7 +20,7 @@ As part of a collaborative effort,Developed a Computer Departmental Website with
 <details>
 <summary>Click to view</summary>
 
-- FrontPage ![Front Page](https://github.com/PRATIKBAGADE1/TYCompWeb/blob/master/ss/home%20page.png)
+- FrontPage ![Front Page](https://github.com/PRATIKBAGADE1/TYCompWeb/blob/master/ss/home%20page.png) <Br>
 - Developed By:-  ![Match Game](https://github.com/PRATIKBAGADE1/TYCompWeb/blob/master/ss/developers.png)
 - ![Scorecard](https://github.com/PRATIKBAGADE1/TYCompWeb/blob/master/ss/sdc.png)
 - ![Scorecard](https://github.com/PRATIKBAGADE1/TYCompWeb/blob/master/ss/sign%20in.png)
